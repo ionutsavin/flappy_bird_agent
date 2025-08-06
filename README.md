@@ -37,7 +37,7 @@ EPISODES = 5000
 # Experimental results
 1. 1000 episodes
 ```
-Best Score: 40
+Best Score: 34
 Average Score: 5.9
 ```
 2. 3000 episodes

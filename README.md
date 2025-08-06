@@ -1,5 +1,3 @@
-# Report Flappy Bird
-
 # Arhitecture and implementation details
 
 ## Neural Network Arhitecture
